@@ -1,3 +1,4 @@
+![logo](https://github.com/JAWERIA-SHEIKH9898/JAWERIA-SHEIKH/blob/main/jweriagit.png)
 <h1 align="center">Hi 👋, I'm Jaweria Sheikh</h1>
 <h3 align="center">A passionate Full Stack Developer in pakistan</h3>
 
