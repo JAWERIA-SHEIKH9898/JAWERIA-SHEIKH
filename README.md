@@ -1,4 +1,4 @@
-![logo]https://github.com/JAWERIA-SHEIKH9898/JAWERIA-SHEIKH/blob/main/jweriagit.png)
+![logo](https://github.com/JAWERIA-SHEIKH9898/JAWERIA-SHEIKH/blob/main/jweriagit.png)
 <h1 align="center">Hi 👋, I'm Jaweria Sheikh</h1>
 <h3 align="center">A passionate Full Stack Developer in pakistan</h3>
 <img align="right" alt="cooding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/12/bwgg.gif">
